@@ -11,8 +11,6 @@ meantemp, humidity, wind_speed, meanpressure. The dataset can be found via: http
 
 In this end-to-end project, we forecasted the mean daily temperature for the period from January 1, 2017, to April 24, 2017. We employed a suite of different machine learning algorithms, including support vector machines (SVR), extreme gradient boosting (XGB), and LightGBM regressors. We also constructed an ensemble regressor, using Ridge regression as the meta-model. Feature engineering utilized includes creating additional features based on radial basis function (RBF) to capture non-linear patterns and cyclical behaviors in the time series data, which the daily mean temperature data, our target, clearly exhibits:
 
-![daily temperature seasonal plot](daily_temperature_seasonal_plot.png)
-
 ![plot plot](polar_plot.png)
 
 Furthermore, we also included lag features to capture temporal dependencies within the series. 
