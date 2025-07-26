@@ -13,6 +13,8 @@ In this end-to-end project, we forecasted the mean daily temperature for the per
 
 ![plot plot](polar_plot.png)
 
+![plot plot](polar_plot.png)
+
 Furthermore, we also included lag features to capture temporal dependencies within the series. 
 
 ## Conclusion and further work...
