@@ -17,7 +17,7 @@ Furthermore, we also included lag features to capture temporal dependencies with
 
 ## Conclusion and further work...
 
-Our model yielded impressive results as indicated by the out-of-sample MAPE, RMSE, and R2 scores of 6.347%, 1.595, and 0.938, respectively. The results show clear outperformance of our model compared to the majority of work on this dataset showcased on Kaggle:
+Our model yielded impressive results as indicated by the out-of-sample MAPE, RMSE, and R2 scores of 6.347%, 1.595, and 0.938, respectively. The results demonstrate a clear outperformance of our model compared to most previous work on this dataset highlighted on Kaggle:
 
 ![performance evaluation](performance_evaluation.png)
 
